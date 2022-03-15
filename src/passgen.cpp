@@ -101,7 +101,7 @@ int main() {
      printPass(generated);
 
 
-
+     delete generated;
      return 0;
      
 }
